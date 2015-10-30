@@ -1,0 +1,5 @@
+D:\github\PayProgram\EmpoyleeLibrary\bin\Debug\EmpoyleeLibrary.dll
+D:\github\PayProgram\EmpoyleeLibrary\bin\Debug\EmpoyleeLibrary.pdb
+D:\github\PayProgram\EmpoyleeLibrary\obj\Debug\EmpoyleeLibrary.csprojResolveAssemblyReference.cache
+D:\github\PayProgram\EmpoyleeLibrary\obj\Debug\EmpoyleeLibrary.dll
+D:\github\PayProgram\EmpoyleeLibrary\obj\Debug\EmpoyleeLibrary.pdb

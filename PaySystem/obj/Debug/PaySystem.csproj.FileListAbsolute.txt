@@ -1,0 +1,8 @@
+D:\github\PayProgram\PaySystem\bin\Debug\PaySystem.exe.config
+D:\github\PayProgram\PaySystem\bin\Debug\PaySystem.exe
+D:\github\PayProgram\PaySystem\bin\Debug\PaySystem.pdb
+D:\github\PayProgram\PaySystem\bin\Debug\EmpoyleeLibrary.dll
+D:\github\PayProgram\PaySystem\bin\Debug\EmpoyleeLibrary.pdb
+D:\github\PayProgram\PaySystem\obj\Debug\PaySystem.csprojResolveAssemblyReference.cache
+D:\github\PayProgram\PaySystem\obj\Debug\PaySystem.exe
+D:\github\PayProgram\PaySystem\obj\Debug\PaySystem.pdb
